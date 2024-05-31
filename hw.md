@@ -171,6 +171,7 @@ code to review:
 
 #### chat gpt 產生的code
 ```cpp
+//prompt2
 // Author is Chiu CC
 
 #include <vector>
@@ -312,6 +313,7 @@ int main() {
     std::cout << "MST found by Kruskal:\n";
     g6.KruskalMST();
 }
+
 
 ```
 ### Prompt 3
