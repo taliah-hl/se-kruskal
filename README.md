@@ -4,5 +4,7 @@ https://docs.google.com/document/d/1POsmNe9KjVN-jb4GLwBkrXBK7dV9p_gr/edit?usp=sh
 
 # branch
 
-copilot-review -> copilot 修code 加上我小修
-code-reivew -> 人手修
+- reviewed -> 只有修好的code, 作者本來的comment放回去 (copilot 修code 加上我小修)
+- copilot-review -> 修好的code (但作者的comment不見了) + 原本的wrong code (faulty-kruskal) + 各種參考
+- code-reivew -> 我人手修 (可以不用管)
+- r2-code-review -> 第二個reviewer（110010012）修好的code，有作者comment+reviewer comment
